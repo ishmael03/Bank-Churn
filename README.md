@@ -11,7 +11,7 @@ The objective of this project is to help the bank reduce customer churn by ident
 
 ### **Dataset**
 
-The dataset used in this project includes customer information such as age, balance, membership duration, and transaction history. (Note: Adjust this section based on the actual data you used.)
+The dataset used in this project includes customer information such as age, balance, membership duration, and transaction history. 
 
 ### **Execute**
 
